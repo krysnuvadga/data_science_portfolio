@@ -11,3 +11,5 @@ In this project, I am making use of Using Python and Folium to clean, analyze an
 My focus was to explore how ML algorithms can be used to model and predict human buying behavior.
 
 ### Predicting the likelihood of a customer to make repeat purchases using logistic regression
+
+### Movie website recommendation
